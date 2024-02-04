@@ -6,5 +6,5 @@
     'types': [svg]
     args: []
     require_serial: false
-    additional_dependencies: ["svgo@1.1.0"]
+    additional_dependencies: ["svgo@1.1.1"]
     minimum_pre_commit_version: '0'
